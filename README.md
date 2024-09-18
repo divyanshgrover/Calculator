@@ -18,7 +18,7 @@ This project is a Java-based calculator inspired by the iOS calculator interface
 
 ## Project Structure
 - `Calculator.java`: The main Java file containing the logic and UI for the calculator.
-- `README.txt`: Instructions and details about the project.
+- `README.md`: Instructions and details about the project.
 
 ## Usage
 - To perform calculations, simply click on the numeric buttons or operators, and the result will be displayed.
